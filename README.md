@@ -6,6 +6,6 @@ Steps to start the project
 2. Open Folder and "npm install"
 3. To Run the Application - "npm start"
 
-A local web server will start at port 8000.
+A local web server will start at port 8000[http://localhost:8000/app/].
 
 Best of luck
